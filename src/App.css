@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin:0px;
+  padding:0px;
+}
+*:before{
+  box-sizing: border-box;
+  margin:0px;
+  padding:0px;
+}
+*:after{
+  box-sizing: border-box;
+  margin:0px;
+  padding:0px;
+}
+
+body{
+  height: 100vh;
+  overflow-y: hidden;
+  text-align: center;
+}
